@@ -1,14 +1,13 @@
 import React from "react";
-import "./index.css"
+import "./index.css";
 import Friend from "./Friend";
 
-const FriendList = ({initialFriends}) => {
-  const friends = initialFriends;
+const FriendList = ({ friends }) => {
   return (
     <>
       <ul>
         {friends.map((friend) => (
-          <Friend key={friend.id} friend={friend}  />
+          <Friend key={friend.id} friend={friend} />
         ))}
       </ul>
     </>
