@@ -63,6 +63,20 @@ Use the application in your browser:
 
 -Select the person who is paying the bill to adjust the final amount accordingly.
 
+# Practise Case
+- StateManagement in React.
+
+- Controlled Elements in React.
+
+- Prop Drilling and State Lifting in React.
+
+- Working with Immutable Array in React.
+
+- Selecting Items.
+
+- Form inputs.
+
+- Conditional Rendering
 # Contributing
 If you wish to contribute to the project, feel free to fork the repository and submit a pull request. We welcome any contributions, including bug fixes, new features, and improvements.
 
