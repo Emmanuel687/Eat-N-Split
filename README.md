@@ -18,6 +18,9 @@ Eat-n-Split is a web application built with React that helps users split bills a
 
 -License
 
+# Image 
+![Alt text](eat-n-splice.jpg)
+
 # Features
 1.Users can Add friends and track expenses for each friend.
 
@@ -77,6 +80,7 @@ Use the application in your browser:
 - Form inputs.
 
 - Conditional Rendering
+
 # Contributing
 If you wish to contribute to the project, feel free to fork the repository and submit a pull request. We welcome any contributions, including bug fixes, new features, and improvements.
 
