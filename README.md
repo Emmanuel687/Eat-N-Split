@@ -37,20 +37,21 @@ Node.js (https://nodejs.org) installed on your local machine.
 Git (https://git-scm.com) installed for version control (optional).
 
 # Installation
-Clone the repository from GitHub:
+1.Clone the repository from GitHub:
 
 git clone https://github.com/emmanuel687/eat-n-split.git
 
 Alternatively, you can download the repository as a ZIP file and extract it.
 
-Navigate to the project directory:
+2.Navigate to the project directory:
 
 cd eat-n-split
-Install the required dependencies:
+
+Install the required dependencies by running this command:-
 
 npm install
 
-Run the development server:
+3.Run the development server:
 
 npm start
 
